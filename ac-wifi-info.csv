@@ -83,7 +83,7 @@ type,fin,has wifi,technology,last updated
 321,466,true,2Ku,
 321,467,true,2Ku,
 321,468,true,2Ku,
-321,469,true,2Ku,
+321,469,true,2Ku,2024-10-17 23:43:41
 321,470,true,2Ku,
 321,471,true,2Ku,
 321,472,true,2Ku,
@@ -101,7 +101,7 @@ type,fin,has wifi,technology,last updated
 333,931,true,2Ku,2024-10-17 12:41:01
 333,932,true,2Ku,2024-10-14 02:43:59
 333,933,true,2Ku,2024-10-11 02:57:12
-333,934,true,2Ku,
+333,934,true,2Ku,2024-10-17 23:33:19
 333,935,true,2Ku,
 333,936,true,2Ku,2024-10-15 20:30:46
 333,937,true,2Ku,2024-10-10 11:56:18
@@ -150,7 +150,7 @@ type,fin,has wifi,technology,last updated
 788,806,true,2Ku,
 788,807,true,2Ku,
 788,808,true,2Ku,
-789,831,true,2Ku,
+789,831,true,2Ku,2024-10-17 23:17:18
 789,832,true,2Ku,2024-10-11 15:46:46
 789,833,true,2Ku,
 789,834,true,2Ku,2024-10-13 03:08:46
@@ -259,6 +259,7 @@ DH4,406,false,,
 DH4,410,false,,
 DH4,420,false,,
 DH4,421,false,,
+DH4,425,false,,2024-10-17 23:31:04
 DH4,429,false,,2024-10-13 07:04:07
 DH4,434,false,,
 DH4,496,false,,
