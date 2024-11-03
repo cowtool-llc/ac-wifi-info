@@ -57,7 +57,7 @@ type,fin,has wifi,technology,last updated
 320,244,true,2Ku,
 320,245,true,2Ku,
 320,246,true,2Ku,2024-10-23 17:44:31
-320,247,true,2Ku,
+320,247,true,2Ku,2024-11-03 21:58:17
 320,401,true,ATG4,2024-10-27 11:24:32
 320,402,true,ATG4,
 320,405,true,ATG4,
@@ -260,6 +260,7 @@ DH4,406,false,,
 DH4,408,false,,2024-10-28 20:34:14
 DH4,410,false,,
 DH4,412,false,,2024-10-19 05:51:52
+DH4,417,false,,2024-11-03 22:21:24
 DH4,420,false,,
 DH4,421,false,,
 DH4,422,false,,2024-10-21 11:52:13
