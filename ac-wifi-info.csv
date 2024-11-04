@@ -78,7 +78,7 @@ type,fin,has wifi,technology,last updated
 321,459,true,ATG4,2024-10-19 11:02:29
 321,461,true,ATG4,2024-10-31 14:04:10
 321,462,true,ATG4,
-321,463,true,ATG4,
+321,463,true,ATG4,2024-11-04 14:45:45
 321,464,true,ATG4,
 321,465,true,2Ku,
 321,466,true,2Ku,
@@ -88,6 +88,7 @@ type,fin,has wifi,technology,last updated
 321,470,true,2Ku,
 321,471,true,2Ku,
 321,472,true,2Ku,
+321,473,true,ATG4,2024-11-04 14:33:14
 321,474,true,2Ku,
 321,475,true,2Ku,
 321,476,true,2Ku,
