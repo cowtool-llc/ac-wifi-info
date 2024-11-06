@@ -29,9 +29,9 @@ type,fin,has wifi,technology,last updated
 319,255,true,2Ku,2024-10-10 11:51:49
 319,256,true,2Ku,
 319,257,true,2Ku,
-319,258,true,ATG4,
+319,258,true,ATG4,2024-11-06 21:49:41
 319,259,true,2Ku,2024-10-20 20:26:35
-319,260,true,ATG4,2024-10-26 23:10:07
+319,260,true,ATG4,2024-11-06 21:50:18
 319,262,true,2Ku,
 319,263,true,2Ku,
 319,272,true,2Ku,2024-10-31 00:56:08
@@ -47,6 +47,7 @@ type,fin,has wifi,technology,last updated
 319,287,true,2Ku,2024-10-10 02:38:46
 319,470,false,,
 320,235,true,ATG4,
+320,236,true,ATG4,2024-11-06 21:51:03
 320,237,true,ATG4,
 320,238,true,ATG4,2024-10-11 03:30:39
 320,239,true,ATG4,2024-10-26 17:03:48
@@ -61,7 +62,7 @@ type,fin,has wifi,technology,last updated
 320,401,true,ATG4,2024-10-27 11:24:32
 320,402,true,ATG4,
 320,405,true,ATG4,
-320,415,true,ATG4,2024-10-27 11:22:50
+320,415,true,ATG4,2024-11-06 21:50:04
 320,417,true,2Ku,2024-10-12 11:35:55
 320,418,true,2Ku,2024-10-14 19:24:00
 320,419,true,2Ku,
